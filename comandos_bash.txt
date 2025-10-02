@@ -1,0 +1,3 @@
+ls -> lista arquivos
+cd -> move emtre diretorios
+pwd -> mostra diretorio de trabalho
