@@ -3,7 +3,7 @@ git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquivp -> adiciona o arquivo para ser comitado
 git commmit -m "msg" -> faz commit do que estava para ser comitado
 git log -> mostra todos os historicos de commit
-
+mais e mais
 
 ## FLUXO DE TRABALHO
 
