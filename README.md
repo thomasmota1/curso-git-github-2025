@@ -16,6 +16,9 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Segue o link uau
 
+Alem do nosso Youtube etc.
+[thomasthomas]
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
